@@ -1,0 +1,7 @@
+os
+re
+requests
+json
+setuptools
+time
+pyinstaller
