@@ -1,11 +1,4 @@
-os
-re
 requests
-json
-platform
 psutil
 setuptools
-time
 pyinstaller
-socket
-
