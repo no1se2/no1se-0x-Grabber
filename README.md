@@ -17,3 +17,5 @@ Once the dependencies have been installed, the script will use PyInstaller to co
 6: Navigate to the dist folder and enjoy.
 
 use this script for educational purposes only and not to harm others!
+
+![Screenshot_2115](https://user-images.githubusercontent.com/98566890/222952497-0ad15f1d-f46a-4815-8709-688ac3d9531b.png)
