@@ -1,8 +1,6 @@
 # no1se-0x-Grabber
 Get full access to any Discord account with our powerful token grabber! Effortlessly capture and secure user tokens with our easy-to-use script. 
 
-Futures: System information And Token grabber
-
 How to use:
 
 1: Make sure you have Python installed on your computer. If you don't have it installed, you can download it from the official website at  https://www.python.org/downloads/.
